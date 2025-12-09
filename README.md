@@ -1,4 +1,4 @@
-# BE 124 Exoskeleton Control Labs
+# Harvard BE 124 Exoskeleton Control Labs
 
 Last updated: December 8, 2025 by Anway Pimpalkar
 
